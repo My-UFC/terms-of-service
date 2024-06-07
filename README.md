@@ -1,7 +1,10 @@
 # Terms of Service for My UFC
 Effective date: June 2024.                                                                                                                                                                                                                                    
 Welcome to My UFC, a Discord app developed by Onze Development.                                                                                                                                                                                                    
-By accessing or using My UFC (referred to as the "Service"), you agree to abide by these Terms of Service. If you do not agree with any part of these terms, you may not use the Service.
+By accessing or using My UFC (referred to as the "Service"), you agree to abide by these Terms of Service. If you do not agree with any part of these terms, you may not use the Service.         
+
+**Disclaimer:** My UFC is an independent project developed by Onze Development and is not affiliated with, endorsed by, or sponsored by the Ultimate Fighting Championship (UFC) or any of its affiliates.                                                         
+Any use of UFC assets within the Service is for informational and entertainment purposes only.
 
 ## Navigation
 1. [Use of Service](#1-use-of-service)
